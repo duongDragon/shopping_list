@@ -1,16 +1,4 @@
 # shopping_list
+<img width="396" alt="Screenshot 2024-02-24 at 2 25 22 pm" src="https://github.com/duongDragon/shopping_list/assets/102270646/987c7f38-9cb6-4f39-9df3-db974ade9185">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="381" alt="Screenshot 2024-02-24 at 2 25 45 pm" src="https://github.com/duongDragon/shopping_list/assets/102270646/1c7d63c5-e9a4-428a-9deb-6b98dbb7eaac">
